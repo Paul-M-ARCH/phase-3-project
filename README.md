@@ -7,11 +7,11 @@ By identifying at-risk customers, telecom providers can proactively intervene to
 
 ## Business Problem
 The telecom company is experiencing notable revenue loss due to customer churn. The business lacks a reliable method to predict which customers are at risk of leaving. The goal is to build a model that predicts churn accurately and provides actionable insights for targeted customer retention efforts.
-The key questions are:
-✅ Which customer attributes are most predictive of churn?
-✅ How well can we predict churn using machine learning models?
-✅ What is the trade-off between model accuracy, precision, and recall?
-✅ Which customer segments should be prioritized for retention efforts?
+The key questions are:  
+✅ Which customer attributes are most predictive of churn?  
+✅ How well can we predict churn using machine learning models?  
+✅ What is the trade-off between model accuracy, precision, and recall?  
+✅ Which customer segments should be prioritized for retention efforts?  
 
 ## 💾 Dataset
 Source: IBM Sample Telecom Dataset
